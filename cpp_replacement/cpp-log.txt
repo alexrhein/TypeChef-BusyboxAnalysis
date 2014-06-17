@@ -1,310 +1,70 @@
 
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cchwKe05.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc3MoV5m.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccYZUNgD.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccBAaYtK.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
+devNull
 stdIn
  /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
 __GNUC__ __GNUC_MINOR__
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
 fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc9dWzLK.i
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccxbKLjZ.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc7sJ5Rg.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccyKjKIl.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccdVrkWC.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-devNull
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccqDMVKW.i
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccZuwGkZ.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccYDCTVl.i
-current path: 
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/busybox-1.18.5
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cckdqRWB.i
 devNull
 devNull
 devNull
@@ -332,10 +92,10 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccPBUlxX.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccbCX9SL.i
 devNull
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccMhZLPh.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccAahv6e.i
 #include <libintl.h>
 int main()
 {
@@ -343,7 +103,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccgWG61y.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccDFYahk.i
 #include <libintl.h>
 int main()
 {
@@ -351,7 +111,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cciZkYEQ.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccb8ox5C.i
 #include <libintl.h>
 int main()
 {
@@ -359,7 +119,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccelcfK7.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc2g7m6T.i
 #include <libintl.h>
 int main()
 {
@@ -393,12 +153,12 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccnbkr19.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccP4CYA6.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccwtq3lp.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccOIijaB.i
 devNull
 devNull
 devNull
@@ -426,10 +186,10 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc6dyNGw.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccKzlOB6.i
 devNull
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccSohpLK.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccrXNuss.i
 #include <libintl.h>
 int main()
 {
@@ -437,7 +197,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc8Ha3S4.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccHVaXvJ.i
 #include <libintl.h>
 int main()
 {
@@ -445,7 +205,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccDE9Odm.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccdLlgG0.i
 #include <libintl.h>
 int main()
 {
@@ -453,7 +213,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccTloblD.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cct0EXE7.i
 #include <libintl.h>
 int main()
 {
@@ -487,12 +247,12 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccRLMRRS.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/cce3IpYo.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccOicHJn.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccQv4CgY.i
 devNull
 devNull
 devNull
@@ -520,10 +280,10 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccWk0X3i.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccaVztGj.i
 devNull
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccY3ceh9.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccNG5R5l.i
 #include <libintl.h>
 int main()
 {
@@ -531,7 +291,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccjfupTy.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccgq7NaD.i
 #include <libintl.h>
 int main()
 {
@@ -539,7 +299,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccrQ34PP.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccaHC6vW.i
 #include <libintl.h>
 int main()
 {
@@ -547,7 +307,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cclccL36.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccgrNWud.i
 #include <libintl.h>
 int main()
 {
@@ -581,12 +341,12 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccVPj0Tq.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/cc8uTI6s.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccqmpsls.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc1l7wU3.i
 devNull
 devNull
 devNull
@@ -614,12 +374,73 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc3GICwu.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccLGqZvb.i
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccmkiT0e.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccyKYSaw.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccenFHfM.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccJOhGxT.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
+__GNUC__ __GNUC_MINOR__
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+fileInput
+file: crypttest.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
+crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccqmizU6.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccedoKLD.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccB7KJki.i
 devNull
 devNull
 devNull
@@ -647,12 +468,73 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccLub7f5.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccHG9Jvd.i
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccfQJk43.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccdBcsgl.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccDZIlsC.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccgcYOwT.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
+__GNUC__ __GNUC_MINOR__
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+fileInput
+file: crypttest.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
+crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccn6cP4c.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cce4qdP9.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccEE8mag.i
 devNull
 devNull
 devNull
@@ -680,12 +562,73 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccytkvvg.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccpAhTi6.i
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccQY24ww.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccYRxgoO.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccSfTMKT.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc2IlR49.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
+__GNUC__ __GNUC_MINOR__
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+fileInput
+file: crypttest.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
+crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccOTb75p.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccUv5FC8.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccq3YGi9.i
 devNull
 devNull
 devNull
@@ -713,12 +656,73 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc7Kqls3.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc0nUJR9.i
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccGrhc1D.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccNG6mFV.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cca2oHk5.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc9x0Hmm.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
+__GNUC__ __GNUC_MINOR__
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+fileInput
+file: crypttest.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
+crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/cco4pg5B.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccfVan5l.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccTYrlBg.i
 devNull
 devNull
 devNull
@@ -746,1176 +750,83 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccAQwRCm.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccadXG5n.i
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccLKxxbn.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccnv0IXE.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccJpgl8V.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc1fa4G0.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
+__GNUC__ __GNUC_MINOR__
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+fileInput
+file: crypttest.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
+crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccGNnDQk.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccY5bPcE.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccs4w36Q.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc90qFTb.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cchmaseT.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccsw3GtW.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccd0Vo9F.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccmxiy7X.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc0lKkAI.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccuJnDBP.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc5MEJOa.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cctkbq77.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccZ0jWfx.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cczDHuLt.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccznmGVv.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccGMDr7n.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cctTqk90.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccIzANIp.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc0fOdFf.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccjtzuiB.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccUb4eSJ.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccyMK8zX.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc6ckgoY.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccBHNTtf.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccVQp3Wt.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc0KdavT.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cceJ0Fdc.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc2sJDHh.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc2ymYay.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccxWRC6P.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccLstzV8.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc0fG7qy.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccmkcVpE.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc5nCZz1.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cclwCDyi.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccN2crbn.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc6EcP6E.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccWFuIuY.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccZGGvqt.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccN9Gk0h.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc0KuOrt.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccPrun9Y.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccuZy3Yk.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cci6pSVr.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccQKME5L.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cczajK7Z.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/cc8Tp658.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc80oavO.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccpHfcwz.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccHMlSFE.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccgKL6RV.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccJgg5bd.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccIMdo1m.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccuBTc6C.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccF2eieW.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccZsmtzP.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccBq3y6f.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccVyjSEu.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc79cExH.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccPTWHUY.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/cc20PLz0.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccBefbPB.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccajAnLY.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccyQKsJo.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccywejQF.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc6UZJ0V.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cclP7rld.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccqEk4Ep.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccPSqdtR.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccqqqjyi.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccyW08NU.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccByI5G4.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccWz8r0l.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccpcbkaD.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccC56IvP.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccvLBSYr.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccL1tjQw.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccncCJWU.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccT6T8i0.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccrh6B7g.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cczg0JZy.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccF1tZjk.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccSQLCfE.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc5sgHNd.i
 fileInput
 file: applets/applet_tables.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applet_tables
 applets/applet_tables
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccQ7ML41.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccw1waPe.i
 fileInput
 file: applets/applets.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applets
 applets/applets
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccQuL0zr.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc75F5iJ.i
 devNull
 devNull
 devNull
@@ -1943,10 +854,10 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccDpBKwi.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccZJuDGH.i
 devNull
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccMawKY3.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccp9JQDi.i
 #include <libintl.h>
 int main()
 {
@@ -1954,7 +865,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccNydcGl.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc4PZ0Hz.i
 #include <libintl.h>
 int main()
 {
@@ -1962,7 +873,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccgw6YSy.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc3nAeSQ.i
 #include <libintl.h>
 int main()
 {
@@ -1970,7 +881,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccuStOQP.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccHqhKNX.i
 #include <libintl.h>
 int main()
 {
@@ -2004,491 +915,22 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccyFpx3b.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/cc06wQDi.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccLnVPM6.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccp5CRmY.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccjKmelG.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccHpCziq.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccgyC6Gv.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc13AOUM.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccp2ARcw.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccX8lkEB.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc5kbJhS.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccrOJPRn.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccfPS2Sx.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccpMDQZO.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cceGwZFw.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccHUgTJG.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc5BHZpX.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccK7YNsv.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccw7KMB0.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccf2lrwu.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccRPrQ2S.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccjsABYa.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc0337hr.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cchZ7JtF.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccK94hAR.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cccTSMJa.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccbF6QIy.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccHMw6hV.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccBgUetc.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccGBVi9u.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccrxtwzD.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccksRUaI.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccl0LI58.i
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccYQ7laf.i
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccPhQNpE.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccLIkmSS.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccHVlYJ8.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cczHnqGm.i
-#include <libintl.h>
-int main()
-{
-	gettext("");
-	return 0;
-}
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
-__GNUC__ __GNUC_MINOR__
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-devNull
-fileInput
-file: crypttest.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
-crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccy9i1YF.i
-fileInput
-file: applets/usage.c
-/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
-applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccQgDNsb.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccwCuOd6.i
 fileInput
 file: applets/applet_tables.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applet_tables
 applets/applet_tables
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccc1mM2x.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccEnFUEf.i
 fileInput
 file: applets/applets.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applets
 applets/applets
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccbhlGEw.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccKkoZ4b.i
 devNull
 devNull
 devNull
@@ -2516,10 +958,10 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccTT2dcb.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc1fvCcX.i
 devNull
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccQW4iOf.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccnFghU1.i
 #include <libintl.h>
 int main()
 {
@@ -2527,7 +969,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccIxdSRx.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccaFKVDm.i
 #include <libintl.h>
 int main()
 {
@@ -2535,7 +977,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc56IA0O.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccZ8pQtr.i
 #include <libintl.h>
 int main()
 {
@@ -2543,7 +985,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cckGifJ6.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc794xLI.i
 #include <libintl.h>
 int main()
 {
@@ -2577,22 +1019,27 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccTPNdEk.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccycJcr4.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cchJcNf2.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccKvEug5.i
 fileInput
 file: applets/applet_tables.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applet_tables
 applets/applet_tables
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccDQWR31.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccaV9Q3J.i
 fileInput
 file: applets/applets.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applets
 applets/applets
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cch7Cj2E.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc3ejE6J.i
+fileInput
+file: applets/usage_pod.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage_pod
+applets/usage_pod
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage_pod.d applets/usage_pod.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccdM7MR2.i
 devNull
 devNull
 devNull
@@ -2620,10 +1067,48 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccLzDUoS.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccRuxb8v.i
+fileInput
+file: archival/bbunzip.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh archival/bbunzip
+archival/bbunzip
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(bbunzip) -D KBUILD_MODNAME=KBUILD_STR(bbunzip) -include include/autoconf.h -MD archival/.bbunzip.o.d archival/bbunzip.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccWwg5T1.i
+fileInput
+file: archival/bzip2.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh archival/bzip2
+archival/bzip2
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(bzip2) -D KBUILD_MODNAME=KBUILD_STR(bzip2) -include include/autoconf.h -MD archival/.bzip2.o.d archival/bzip2.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc0GJMnV.i
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
 devNull
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccJ7sJl1.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
+__GNUC__ __GNUC_MINOR__
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+fileInput
+file: crypttest.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
+crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc7wvrPw.i
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccCWZgod.i
 #include <libintl.h>
 int main()
 {
@@ -2631,7 +1116,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccxHRljf.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccpLQHhv.i
 #include <libintl.h>
 int main()
 {
@@ -2639,7 +1124,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccAJ2uyw.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccb5iBxE.i
 #include <libintl.h>
 int main()
 {
@@ -2647,7 +1132,7 @@ int main()
 	return 0;
 }
 stdIn
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc1X4WyN.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccKjlXyV.i
 #include <libintl.h>
 int main()
 {
@@ -2681,22 +1166,27 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccn6UIy3.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccOIfsQe.i
 fileInput
 file: applets/usage.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
 applets/usage
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccUulLyx.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cctWtm7U.i
 fileInput
 file: applets/applet_tables.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applet_tables
 applets/applet_tables
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc4FjN9W.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/cc94Pqiu.i
 fileInput
 file: applets/applets.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applets
 applets/applets
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccUH3sBg.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cciz23Dk.i
+fileInput
+file: applets/usage_pod.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage_pod
+applets/usage_pod
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage_pod.d applets/usage_pod.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccRcrbCL.i
 devNull
 devNull
 devNull
@@ -2724,6 +1214,17 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/cc6yNIkY.i
+fileInput
+file: archival/bzip2.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh archival/bzip2
+archival/bzip2
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(bzip2) -D KBUILD_MODNAME=KBUILD_STR(bzip2) -include include/autoconf.h -MD archival/.bzip2.o.d archival/bzip2.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccZAGogE.i
+fileInput
+file: archival/cpio.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh archival/cpio
+archival/cpio
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(cpio) -D KBUILD_MODNAME=KBUILD_STR(cpio) -include include/autoconf.h -MD archival/.cpio.o.d archival/cpio.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccpjy00G.i
 devNull
 devNull
 devNull
@@ -2751,7 +1252,40 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
- /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/cc4GaM6r.i
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccOzUBrk.i
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccqKQOV3.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccc3ap8k.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccrqtmZp.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccc4fchH.i
+#include <libintl.h>
+int main()
+{
+	gettext("");
+	return 0;
+}
 devNull
 devNull
 devNull
@@ -2779,3 +1313,57 @@ fileInput
 file: crypttest.c
 /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
 crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccdhOcW0.i
+fileInput
+file: applets/usage.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage
+applets/usage
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage.d applets/usage.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccUREH7v.i
+fileInput
+file: applets/applet_tables.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applet_tables
+applets/applet_tables
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.applet_tables.d applets/applet_tables.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccxYXGMj.i
+fileInput
+file: applets/applets.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/applets
+applets/applets
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(applets) -D KBUILD_MODNAME=KBUILD_STR(applets) -include include/autoconf.h -MD applets/.applets.o.d applets/applets.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccWe6IjJ.i
+fileInput
+file: applets/usage_pod.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh applets/usage_pod
+applets/usage_pod
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I include -imultilib . -imultiarch x86_64-linux-gnu -MD applets/.usage_pod.d applets/usage_pod.c -mtune=generic -march=x86-64 -Wall -Wstrict-prototypes -fomit-frame-pointer -O2 -fstack-protector -o /tmp/ccMobpyU.i
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+stdIn
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu - -mtune=generic -march=x86-64 -fstack-protector
+__GNUC__ __GNUC_MINOR__
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+devNull
+fileInput
+file: crypttest.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh crypttest
+crypttest
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -imultilib . -imultiarch x86_64-linux-gnu crypttest.c -mtune=generic -march=x86-64 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -Os -fstack-protector -o /tmp/ccqtZ2Sv.i
+fileInput
+file: archival/cpio.c
+/local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh archival/cpio
+archival/cpio
+ /usr/lib/gcc/x86_64-linux-gnu/4.6/cc1 -E -quiet -I include -I libbb -imultilib . -imultiarch x86_64-linux-gnu -D _GNU_SOURCE -D NDEBUG -D _LARGEFILE_SOURCE -D _LARGEFILE64_SOURCE -D _FILE_OFFSET_BITS=64 -D BB_VER=KBUILD_STR(1.23.0.git) -D BB_BT=AUTOCONF_TIMESTAMP -D KBUILD_STR(s)=#s -D KBUILD_BASENAME=KBUILD_STR(cpio) -D KBUILD_MODNAME=KBUILD_STR(cpio) -include include/autoconf.h -MD archival/.cpio.o.d archival/cpio.c -mtune=generic -march=x86-64 -std=gnu99 -Wall -Wshadow -Wwrite-strings -Wundef -Wstrict-prototypes -Wunused -Wunused-parameter -Wunused-function -Wunused-value -Wmissing-prototypes -Wmissing-declarations -Wno-format-security -Wdeclaration-after-statement -Wold-style-definition -fno-builtin-strlen -finline-limit=0 -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-guess-branch-probability -funsigned-char -falign-functions=1 -falign-jumps=1 -falign-labels=1 -falign-loops=1 -fno-unwind-tables -fno-asynchronous-unwind-tables -Os -fstack-protector -o /tmp/ccmki2b8.i

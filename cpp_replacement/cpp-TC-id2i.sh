@@ -67,7 +67,8 @@ if [ "$cpp" = true ] ; then
       echo "$fileNameNoExtension" >> /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/cpp_replacement/cpp-log.txt
       #call TypeChef
       cd /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement
-      /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh "$fileNameNoExtension"
+      echo $allParams > /local/ifdeftoif/ifdeftoif/lastGCCoptions.txt
+      /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/analyzeBusybox_one.sh $fileNameNoExtension > /local/ifdeftoif/TypeChef-BusyboxAnalysis_CPP_replacement/LastTC_call.txt
       #go back to original dir
       cd $currentpath
       #run cpp on generated ifdeftoif file
