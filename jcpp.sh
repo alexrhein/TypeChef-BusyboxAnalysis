@@ -4,7 +4,8 @@ if [ -z "$jcppConfLoaded" ]; then
   source jcpp.conf
 fi
 
-typechefDir=../TypeChef
+#typechefDir=../TypeChef
+typechefDir=../Hercules
 
 # What you should configure
 javaOpts='$javaOpts -Xmx2G -Xms128m -Xss10m'
