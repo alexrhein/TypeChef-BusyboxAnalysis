@@ -1,0 +1,7 @@
+Problem with case study coreutils/cat:
+- ifdeftoif-processed file still contains ifdefs for pragmas. (21.10.2014)
+	Solution: disable/enable the corresponding features in config.h
+	The features are:
+	CONFIG_USE_BB_PWD_GRP
+	CONFIG_FEATURE_SHADOWPASSWDS
+	CONFIG_USE_BB_SHADOW
