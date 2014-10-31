@@ -9,8 +9,6 @@ import de.fosd.typechef.featureexpr.bdd.BDDFeatureExpr
  * every solution gets its own line, the lines are sorted
  */
 object DebugFormula extends App {
-/*
- // This code produced many compilation problems and I don't plan to use it anyway so I removed it.
  
     FeatureExprFactory.setDefault(FeatureExprFactory.bdd)
 
@@ -25,6 +23,5 @@ object DebugFormula extends App {
     for (clause <- dnf.split("\\|").map(_.trim)) {
         println(clause.split("&").map(_.trim).sorted.mkString(" & "))
     }
-*/
 
 }

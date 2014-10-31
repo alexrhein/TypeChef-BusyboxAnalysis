@@ -116,7 +116,7 @@ object BusyboxLinker extends App {
 
     println("total composition time: " + (t2 - t1))
 
-    finalInterface = finalInterface.andFM(featureModel).pack
+    finalInterface = finalInterface.andFM(featureModel).pack()
 
     reader.writeInterface(finalInterface, new File("busyboxfinal.interface"))
     reader.debugInterface(finalInterface, new File("busyboxfinal.dbginterface"))
@@ -146,7 +146,7 @@ object TmpLinkerStuff extends App {
     i = SystemLinker.conditionalLinkSelinux(i, d("CONFIG_SELINUX"))
     i = SystemLinker.conditionalLinkPam(i, d("CONFIG_PAM"))
     i = i.andFM(fm)
-    i = i.pack
+    i = i.pack()
 
     println("packed")
 
