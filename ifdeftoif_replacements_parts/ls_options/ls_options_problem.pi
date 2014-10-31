@@ -1,11 +1,11 @@
+#line 1 "/local/ifdeftoif/TypeChef-BusyboxAnalysis_ifdeftoif/ifdeftoif_replacements_parts/ls_options/ls_options_problem.c" 1
 static const char ls_options[] __attribute__((aligned(1))) =
 	"Cadil1gnsxQAk" /* 13 opts, total 13 */
 	
 #if (definedEx(CONFIG_FTPD) || definedEx(CONFIG_FEATURE_LS_TIMESTAMPS))
 "cetu"
 #endif
-#if (!definedEx(CONFIG_FEATURE_LS_TIMESTAMPS) && !definedEx(CONFIG_FTPD))
-
+#if (!definedEx(CONFIG_FTPD) && !definedEx(CONFIG_FEATURE_LS_TIMESTAMPS))
 #endif
  /* 4, 17 */
 	
@@ -13,7 +13,6 @@ static const char ls_options[] __attribute__((aligned(1))) =
 "SXrv"
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_SORTFILES)
-
 #endif
   /* 4, 21 */
 	
@@ -21,7 +20,6 @@ static const char ls_options[] __attribute__((aligned(1))) =
 "Fp"
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_FILETYPES)
-
 #endif
     /* 2, 23 */
 	
@@ -29,7 +27,6 @@ static const char ls_options[] __attribute__((aligned(1))) =
 "L"
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_FOLLOWLINKS)
-
 #endif
    /* 1, 24 */
 	
@@ -37,7 +34,6 @@ static const char ls_options[] __attribute__((aligned(1))) =
 "R"
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_RECURSIVE)
-
 #endif
      /* 1, 25 */
 	
@@ -45,7 +41,6 @@ static const char ls_options[] __attribute__((aligned(1))) =
 "h"
 #endif
 #if !definedEx(CONFIG_FEATURE_HUMAN_READABLE)
-
 #endif
    /* 1, 26 */
 	
@@ -53,7 +48,6 @@ static const char ls_options[] __attribute__((aligned(1))) =
 "KZ"
 #endif
 #if (!definedEx(CONFIG_FEATURE_FIND_CONTEXT) && !definedEx(CONFIG_SELINUX))
-
 #endif
  /* 2, 28 */
 	
@@ -61,7 +55,6 @@ static const char ls_options[] __attribute__((aligned(1))) =
 "T:w:"
 #endif
 #if !definedEx(CONFIG_FEATURE_AUTOWIDTH)
-
 #endif
  /* 2, 30 */
 	;

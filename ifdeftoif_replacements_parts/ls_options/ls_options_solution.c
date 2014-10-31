@@ -1,5 +1,5 @@
 // initialize with maximum size
-static char ls_options[] __attribute__((aligned(1))) = "Cadil1gnsxQAk" "cetu" "SXrv" "Fp" "R" "KZ" "LH" "h" "T:w:";
+static char ls_options[] __attribute__((aligned(1))) = "Cadil1gnsxQAk" "cetu" "SXrv" "Fp" "L" "R" "h" "KZ" "T:w:";
 
 static void init_ls_options() {
 	int currentLength = 13;
@@ -28,8 +28,18 @@ currentLength+=2;
 #endif
     /* 2, 23 */
 	
+#if definedEx(CONFIG_FEATURE_LS_FOLLOWLINKS)
+ls_options[currentLength] = 'L';
+currentLength+=1;
+#endif
+
 #if definedEx(CONFIG_FEATURE_LS_RECURSIVE)
 ls_options[currentLength] = 'R';
+currentLength+=1;
+#endif
+
+#if definedEx(CONFIG_FEATURE_HUMAN_READABLE)
+ls_options[currentLength] = 'h';
 currentLength+=1;
 #endif
      /* 1, 24 */
@@ -40,19 +50,6 @@ ls_options[currentLength+1] = 'Z';
 currentLength+=2;
 #endif
                  /* 2, 26 */
-	
-#if definedEx(CONFIG_FEATURE_LS_FOLLOWLINKS)
-ls_options[currentLength] = 'L';
-ls_options[currentLength+1] = 'H';
-currentLength+=2;
-#endif
-  /* 2, 28 */
-	
-#if definedEx(CONFIG_FEATURE_HUMAN_READABLE)
-ls_options[currentLength] = 'h';
-currentLength+=1;
-#endif
-   /* 1, 29 */
 	
 #if definedEx(CONFIG_FEATURE_AUTOWIDTH)
 ls_options[currentLength] = 'T';

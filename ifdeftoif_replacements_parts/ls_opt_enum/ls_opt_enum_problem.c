@@ -1,67 +1,81 @@
-static const char ls_options[] __attribute__((aligned(1))) =
-	"Cadil1gnsxQAk" /* 13 opts, total 13 */
-	
+enum {
+	//OPT_C = (1 << 0),
+	//OPT_a = (1 << 1),
+	//OPT_d = (1 << 2),
+	//OPT_i = (1 << 3),
+	//OPT_l = (1 << 4),
+	//OPT_1 = (1 << 5),
+	OPT_g = (1 << 6),
+	//OPT_n = (1 << 7),
+	//OPT_s = (1 << 8),
+	//OPT_x = (1 << 9),
+	OPT_Q = (1 << 10),
+	//OPT_A = (1 << 11),
+	//OPT_k = (1 << 12),
+	OPTBIT_color = 13
+		+ 4 * 
 #if (definedEx(CONFIG_FTPD) || definedEx(CONFIG_FEATURE_LS_TIMESTAMPS))
-"cetu"
+1
 #endif
 #if (!definedEx(CONFIG_FEATURE_LS_TIMESTAMPS) && !definedEx(CONFIG_FTPD))
-
+0
 #endif
- /* 4, 17 */
-	
+
+		+ 4 * 
 #if definedEx(CONFIG_FEATURE_LS_SORTFILES)
-"SXrv"
+1
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_SORTFILES)
-
+0
 #endif
-  /* 4, 21 */
-	
+
+		+ 2 * 
 #if definedEx(CONFIG_FEATURE_LS_FILETYPES)
-"Fp"
+1
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_FILETYPES)
-
+0
 #endif
-    /* 2, 23 */
-	
+
+		+ 1 * 
 #if definedEx(CONFIG_FEATURE_LS_FOLLOWLINKS)
-"L"
+1
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_FOLLOWLINKS)
-
+0
 #endif
-   /* 1, 24 */
-	
+
+		+ 1 * 
 #if definedEx(CONFIG_FEATURE_LS_RECURSIVE)
-"R"
+1
 #endif
 #if !definedEx(CONFIG_FEATURE_LS_RECURSIVE)
-
+0
 #endif
-     /* 1, 25 */
-	
+
+		+ 1 * 
 #if definedEx(CONFIG_FEATURE_HUMAN_READABLE)
-"h"
+1
 #endif
 #if !definedEx(CONFIG_FEATURE_HUMAN_READABLE)
-
+0
 #endif
-   /* 1, 26 */
-	
+
+		+ 2 * 
 #if (definedEx(CONFIG_FEATURE_FIND_CONTEXT) || definedEx(CONFIG_SELINUX))
-"KZ"
+1
 #endif
 #if (!definedEx(CONFIG_FEATURE_FIND_CONTEXT) && !definedEx(CONFIG_SELINUX))
-
+0
 #endif
- /* 2, 28 */
-	
+
+		+ 2 * 
 #if definedEx(CONFIG_FEATURE_AUTOWIDTH)
-"T:w:"
+1
 #endif
 #if !definedEx(CONFIG_FEATURE_AUTOWIDTH)
-
+0
 #endif
- /* 2, 30 */
-	;
+,
+	OPT_color = 1 << OPTBIT_color,
+};
