@@ -7,3 +7,6 @@
 
 ./run.sh de.fosd.typechef.busybox.ProcessFileList busybox/busybox_pcs.txt busybox-1.18.5/
 
+
+# replace busybox sources with our modified versions (modified if ifdeftoif was impossible otherwise)
+cp -rfv ifdeftoif_modified_files/* .

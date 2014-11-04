@@ -1,4 +1,5 @@
-busybox-1.18.5
+# "/" at the beginning ensures that only the root-level folder busybox-1.18.5 is ignored. Other subfolders with the name are not ignored
+/busybox-1.18.5
 systems
 git
 project

@@ -1,0 +1,84 @@
+Problem: the AST-String for the problem is really large (> 600 000 characters).
+Therefore we cannot load it in a scala source file.
+
+second problem:
+TypeChef parser does some heavy expansion during the parse.
+The order of the ifdef options that are generated seems to be different on each run?!
+
+Two possible solutions:
+1. do it before typechef gets the code
+( =in the source file )
+not possible in this case because the problem stems from an interaction of code in the c-file and macro definitions in other files
+
+2. do it after ifdeftoif is generated. This should work.
+
+
+My solution (4.11.2014):
+1. Replace the definition of the opt_flags array with this code in the ls.c file (modify ls.c).
+2. add a call to the new function init_opt_flags in ls_main.
+
+	// Alex: modified this array such that ifdeftoif is easier.
+	// Some array positions are now initialized in a new function init_opt_flags that should be called in the main function.
+	// I add a call to it in ls_main .
+/* TODO: simple toggles may be stored as OPT_xxx bits instead */
+static unsigned opt_flags[] = {
+	LIST_SHORT | STYLE_COLUMNS, /* C */
+	DISP_HIDDEN | DISP_DOT,     /* a */
+	DISP_NOLIST,                /* d */
+	LIST_INO,                   /* i */
+	LIST_LONG | STYLE_LONG,     /* l - remember LS_DISP_HR in mask! */
+	LIST_SHORT | STYLE_SINGLE,  /* 1 */
+	0,                          /* g (don't show owner) - handled via OPT_g */
+	LIST_ID_NUMERIC,            /* n */
+	LIST_BLOCKS,                /* s */
+	DISP_ROWS,                  /* x */
+	0,                          /* Q (quote filename) - handled via OPT_Q */
+	DISP_HIDDEN,                /* A */
+	0, /*12*/ /* k (ignored if !SELINUX) */
+	// from here to after [16] the entries are optional _and_ partly variable
+	// so, i need two instances of the array (one with and one without the optional entries.
+	// if the entries are present, then i also need to initalize them in the init function
+#if ENABLE_FEATURE_LS_TIMESTAMPS
+	0,   /*13*/ /* c */
+	LIST_FULLTIME,             /*14*/ /* e */
+	0,   /*15*/ /* t */
+	0,   /*16*/ /* u */
+#endif
+#if ENABLE_FEATURE_LS_SORTFILES
+	SORT_SIZE,                  /* S */
+	SORT_EXT,                   /* X */
+	SORT_REVERSE,               /* r */
+	SORT_VERSION,               /* v */
+#endif
+#if ENABLE_FEATURE_LS_FILETYPES
+	LIST_FILETYPE | LIST_EXEC,  /* F */
+	LIST_FILETYPE,              /* p */
+#endif
+#if ENABLE_FEATURE_LS_FOLLOWLINKS
+	FOLLOW_LINKS,               /* L */
+#endif
+#if ENABLE_FEATURE_LS_RECURSIVE
+	DISP_RECURSIVE,             /* R */
+#endif
+#if ENABLE_FEATURE_HUMAN_READABLE
+	LS_DISP_HR,                 /* h */
+#endif
+#if ENABLE_SELINUX
+	LIST_MODEBITS|LIST_NLINKS|LIST_CONTEXT|LIST_SIZE|LIST_DATE_TIME, /* K */
+#endif
+#if ENABLE_SELINUX
+	LIST_MODEBITS|LIST_ID_NAME|LIST_CONTEXT, /* Z */
+#endif
+	(1U<<31)
+	/* options after Z are not processed through opt_flags:
+	 * T, w - ignored
+	 */
+};
+static void init_opt_flags(void) {
+	opt_flags[12]= ENABLE_SELINUX * LIST_CONTEXT ;
+#if ENABLE_FEATURE_LS_TIMESTAMPS
+	opt_flags[13]= TIME_CHANGE | (ENABLE_FEATURE_LS_SORTFILES * SORT_CTIME) ;
+	opt_flags[15]= ENABLE_FEATURE_LS_SORTFILES * SORT_MTIME ;
+	opt_flags[16]= TIME_ACCESS | (ENABLE_FEATURE_LS_SORTFILES * SORT_ATIME) ;
+#endif
+}
