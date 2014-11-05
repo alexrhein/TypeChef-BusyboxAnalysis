@@ -11,8 +11,9 @@ filesToProcess() {
 flags="-U HAVE_LIBDMALLOC -DCONFIG_FIND -U CONFIG_FEATURE_WGET_LONG_OPTIONS -U ENABLE_NC_110_COMPAT -U CONFIG_EXTRA_COMPAT -D_GNU_SOURCE"
 srcPath="busybox-1.18.5"
 #srcPath="gitbusybox"
-export partialPreprocFlags="-x CONFIG_ --include busybox/config.h -I $srcPath/include --featureModelFExpr busybox/featureModel --debugInterface --writePI --recordTiming --parserstatistics \
---ifdeftoif"
+export partialPreprocFlags="-x CONFIG_ --include busybox/config.h -I $srcPath/include --debugInterface --writePI --recordTiming --parserstatistics \
+--bdd --featureModelDimacs busybox/featureModel.dimacs --ifdeftoif"
+
 # --featureConfig /local/ifdeftoif/ifdeftoif/id2i_optionstruct.h"
 ## Reset output
 i=$1
