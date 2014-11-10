@@ -1,0 +1,49 @@
+Documentation for testing ifdeftoif on busybox
+
+coreutils/head.c
+
+
+coreutils/ls.c
+	problem: too many variants of ls_opt_flags (ifdeftoif_replacements_parts/ls_opt_flags)
+		Could not be solved with ifdeftoif replacement parts framework because the search object is too large
+		TypeChef lexer/parser already expands the code such that it is very big. Cannot express the corresponding object in scala properly and compute hash.
+	solution: modify the .c file directly (busybox-1.18.5/coreutils/ls_original_modified.c and ifdeftoif_modified_files/busybox-1.18.5/coreutils)
+	
+	10.11.2014
+	problem: after ifdeftoif, make has some warnings and then linker errors:
+		coreutils/lib.a(ls.o): In Funktion `my_stat':
+		ls.c:(.text.my_stat+0x44): Nicht definierter Verweis auf `_9_is_selinux_enabled'
+		ls.c:(.text.my_stat+0x55): Nicht definierter Verweis auf `_9_getfilecon'
+		ls.c:(.text.my_stat+0x79): Nicht definierter Verweis auf `_9_is_selinux_enabled'
+		ls.c:(.text.my_stat+0x8a): Nicht definierter Verweis auf `_9_lgetfilecon'
+		ls.c:(.text.my_stat+0xcf): Nicht definierter Verweis auf `_9_is_selinux_enabled'
+		ls.c:(.text.my_stat+0xe0): Nicht definierter Verweis auf `_9_getfilecon'
+		ls.c:(.text.my_stat+0x104): Nicht definierter Verweis auf `_9_is_selinux_enabled'
+		ls.c:(.text.my_stat+0x115): Nicht definierter Verweis auf `_9_lgetfilecon'
+		coreutils/lib.a(ls.o): In Funktion `showfiles':
+		ls.c:(.text.showfiles+0x5c8): Nicht definierter Verweis auf `_9_freecon'
+		coreutils/lib.a(ls.o): In Funktion `ls_main':
+		ls.c:(.text.ls_main+0xae68): Nicht definierter Verweis auf `_251_init_unicode'
+		ls.c:(.text.ls_main+0xae88): Nicht definierter Verweis auf `_252_init_unicode'
+		ls.c:(.text.ls_main+0xb2af): Nicht definierter Verweis auf `_248_applet_long_options'
+		/usr/bin/ld: busybox_unstripped: hidden symbol `_248_applet_long_options' isn't defined
+	problem research: Search in "renamings_StructsAndVars.txt" for the corresponding PCs and limit variability such that no duplication of these symbols is necessary
+		is_selinux_enabled -> 
+			_9_is_selinux_enabled if (def(CONFIG_FEATURE_FIND_CONTEXT)|def(CONFIG_SELINUX))
+		getfilecon -> 
+			_9_getfilecon if (def(CONFIG_FEATURE_FIND_CONTEXT)|def(CONFIG_SELINUX))
+		lgetfilecon -> 
+			_9_lgetfilecon if (def(CONFIG_FEATURE_FIND_CONTEXT)|def(CONFIG_SELINUX))
+		freecon -> 
+			_9_freecon if (def(CONFIG_FEATURE_FIND_CONTEXT)|def(CONFIG_SELINUX))
+		init_unicode -> 
+			_251_init_unicode if (def(CONFIG_UNICODE_SUPPORT)&def(CONFIG_UNICODE_USING_LOCALE))
+			_252_init_unicode if (!def(CONFIG_UNICODE_USING_LOCALE)&def(CONFIG_FEATURE_CHECK_UNICODE_IN_ENV)&def(CONFIG_UNICODE_SUPPORT))
+		applet_long_options -> 
+			_248_applet_long_options if (def(CONFIG_FEATURE_RUN_PARTS_LONG_OPTIONS)|def(CONFIG_FEATURE_EXPAND_LONG_OPTIONS)|def(CONFIG_FEATURE_START_STOP_DAEMON_LONG_OPTIONS)|def(CONFIG_LONG_OPTS)|def(CONFIG_FEATURE_GETOPT_LONG)|def(CONFIG_FEATURE_GZIP_LONG_OPTIONS)|def(CONFIG_FEATURE_RMDIR_LONG_OPTIONS)|def(CONFIG_FEATURE_TAR_LONG_OPTIONS)|def(CONFIG_FEATURE_ADDGROUP_LONG_OPTIONS)|def(CONFIG_FEATURE_DIFF_LONG_OPTIONS)|def(CONFIG_FEATURE_INSTALL_LONG_OPTIONS)|def(CONFIG_FEATURE_MV_LONG_OPTIONS)|def(CONFIG_FEATURE_ADDUSER_LONG_OPTIONS)|def(CONFIG_FEATURE_MKDIR_LONG_OPTIONS)|def(CONFIG_FEATURE_ENV_LONG_OPTIONS)|def(CONFIG_FEATURE_UNEXPAND_LONG_OPTIONS))
+	solution:
+		CONFIG_FEATURE_FIND_CONTEXT depends on FIND && SELINUX (busybox-1.18.5/findutils/Config.in)
+		CONFIG_FEATURE_SELINUX will not compile unless we have an NSA architecture and most people will set it to N (busybox-1.18.5/Config.in)
+		Therefore we force-disable both. (new file busybox/custom_limitations.txt and added it to Hercules call --featureModelFExpr busybox/custom_limitations.txt)
+		FIND_CONTEXT and SELINUX errors are gone.
+		

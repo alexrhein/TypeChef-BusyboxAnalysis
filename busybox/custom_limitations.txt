@@ -1,0 +1,8 @@
+
+//my custom limitations
+
+// the next two features cause linking problems with ifdeftoif
+!defined(CONFIG_SELINUX)
+//CONFIG_FEATURE_SELINUX will not compile unless we have an NSA architecture and most people will set it to N (busybox-1.18.5/Config.in)
+!defined(CONFIG_SELINUX)
+//CONFIG_FEATURE_FIND_CONTEXT depends on FIND && SELINUX (busybox-1.18.5/findutils/Config.in)

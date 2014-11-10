@@ -12,7 +12,12 @@ flags="-U HAVE_LIBDMALLOC -DCONFIG_FIND -U CONFIG_FEATURE_WGET_LONG_OPTIONS -U E
 srcPath="busybox-1.18.5"
 #srcPath="gitbusybox"
 export partialPreprocFlags="-x CONFIG_ --include busybox/config.h -I $srcPath/include --debugInterface --writePI --recordTiming --parserstatistics \
---bdd --featureModelDimacs busybox/featureModel.dimacs --ifdeftoif"
+--bdd \
+--featureModelDimacs busybox/featureModel.dimacs \
+--featureModelFExpr busybox/custom_limitations.txt \
+--ifdeftoif"
+
+#option --featureModelDimacs must be before option --featureModelFExpr
 
 # --featureConfig /local/ifdeftoif/ifdeftoif/id2i_optionstruct.h"
 ## Reset output
