@@ -47,3 +47,4 @@ coreutils/ls.c
 		Therefore we force-disable both. (new file busybox/custom_limitations.txt and added it to Hercules call --featureModelFExpr busybox/custom_limitations.txt)
 		FIND_CONTEXT and SELINUX errors are gone.
 		
+		disabled CONFIG_UNICODE_USING_LOCALE in busybox/custom_limitations.txt. The option states that libc unicode support is used. After disabling internal busybox implementation is used.
