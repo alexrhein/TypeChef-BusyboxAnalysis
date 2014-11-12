@@ -8,4 +8,5 @@
 //CONFIG_FEATURE_FIND_CONTEXT depends on FIND && SELINUX (busybox-1.18.5/findutils/Config.in)
 
 // this should avoid a linker bug where ifdeftoif duplicates the function init_unicode which therefore cannot be linked later
+// We disable the option as we want to focus on the busybox code rather than on libc code which is used when the option is active
 !defined(CONFIG_UNICODE_SUPPORT)

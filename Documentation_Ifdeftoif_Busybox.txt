@@ -48,3 +48,10 @@ coreutils/ls.c
 		FIND_CONTEXT and SELINUX errors are gone.
 		
 		disabled CONFIG_UNICODE_USING_LOCALE in busybox/custom_limitations.txt. The option states that libc unicode support is used. After disabling internal busybox implementation is used.
+		We disable the option as we want to focus on the busybox code rather than on libc code
+
+Problem: applet_long_options (12.11.2014)
+	ls.c:(.text.ls_main+0x3be7): Nicht definierter Verweis auf `applet_long_options'
+	applet_long_options wird definiert in libb/getopt32.c unter Bedingung ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG
+	in Config.in gibt es die Nutzer-sichtbare Option LONG_OPTS die wahrscheinlich damit zusammenhängt.
+	-> Setze LONG_OPTS in der Konfiguration Alex_configurations/LS_allSubOptions.config auf true, damit die variable verfügbar ist (im Simulator immer noch variabel)
