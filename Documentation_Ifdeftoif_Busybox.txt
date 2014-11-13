@@ -58,3 +58,17 @@ Problem: applet_long_options (12.11.2014)
 
 Problem (13.11.2014) on-the-fly replacement vom ls_options array scheint nicht funktioniert zu haben (ifdeftoif_replacements_parts/ls_options).
 	Habe die Ersetzung direkt in coreutils/ls_original_modified.c gemacht
+
+13.11.2014: busybox varianten für ls und head funktionieren.
+	Ein Problem ist das praktisch alle #ifdef Konfigurationsoptionen nur kontrollieren ob Laufzeit Parameter benutzt werden können oder nicht.
+	Beispiel: FEATURE_LS_COLOR und FEATURE_LS_COLOR_IS_DEFAULT bestimmen ob der Parameter --color bei ls genutzt werden kann.
+	FEATURE_LS_COLOR mit ifdeftoif zur Laufzeit verfügbar zu machen funktioniert, macht aber nicht mehr viel Sinn weil bei aktiviertem LS_COLOR der Parameter --color die gleiche Funktionalität hätte.
+	Am Ende können wir zeigen das ifdeftoif auf großen, realistischen Fallstudien läuft, aber der usecase ist hier nicht präsent.
+	Weitere Beispiele:
+	LS_USERNAME -> ls -lg vs ls -l
+	FEATURE_FANCY_HEAD -> head parameter -c, -q, and -v
+	Die Konfigurationsoptionen lassen sich gut aus den c-Dateien und aus Config.in bzw coreutils/Config.in ablesen.
+	Konfiguration für diesen Status:
+		Hercules:	commit 42cabc21fc6281f8ba07f09ab767a6e21a01ea7f	Author: Florian Garbe <fgarbe@fim.uni-passau.de>	Date:   Wed Nov 12 04:15:59 2014 +0100	extern declarations are no longer renamed if they are optional
+		TypeChef:	commit 6428498735fb188a2f35a22256b98cc5bdd61f0e	Merge: b1ed623 56a578f	Author: Florian Garbe <fgarbe@fim.uni-passau.de>	Date:   Fri Oct 24 01:42:07 2014 +0200	Merge remote-tracking branch 'origin/master'
+		BB_Analysis:	commit 73f80ef67df67f68c75805fcc8547cb0098c5486	Author: rhein <rhein@fim.uni-passau.de>	Date:   Thu Nov 13 09:53:25 2014 +0100	on-the-fly replacement of ls_options did not work, added it in coreutils/ls_original_modified.c instead
