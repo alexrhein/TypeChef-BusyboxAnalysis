@@ -130,17 +130,67 @@ SPLIT_SUBDIR    = 2,
 /* "[-]SXvThw", GNU options, busybox optionally supports */
 /* "[-]K", SELinux mandated options, busybox optionally supports */
 /* "[-]e", I think we made this one up */
-static const char ls_options[] ALIGN1 =
-	"Cadil1gnsxQAk" /* 13 opts, total 13 */
-	IF_FEATURE_LS_TIMESTAMPS("cetu") /* 4, 17 */
-	IF_FEATURE_LS_SORTFILES("SXrv")  /* 4, 21 */
-	IF_FEATURE_LS_FILETYPES("Fp")    /* 2, 23 */
-	IF_FEATURE_LS_FOLLOWLINKS("L")   /* 1, 24 */
-	IF_FEATURE_LS_RECURSIVE("R")     /* 1, 25 */
-	IF_FEATURE_HUMAN_READABLE("h")   /* 1, 26 */
-	IF_SELINUX("KZ") /* 2, 28 */
-	IF_FEATURE_AUTOWIDTH("T:w:") /* 2, 30 */
-	;
+// initialize with maximum size
+static char ls_options[] __attribute__((aligned(1))) = "Cadil1gnsxQAk" "cetu" "SXrv" "Fp" "L" "R" "h" "KZ" "T:w:";
+static void init_ls_options() {
+	int currentLength = 13;
+#if (definedEx(CONFIG_FTPD) || definedEx(CONFIG_FEATURE_LS_TIMESTAMPS))
+ls_options[currentLength] = 'c';
+ls_options[currentLength+1] = 'e';
+ls_options[currentLength+2] = 't';
+ls_options[currentLength+3] = 'u';
+currentLength+=4;
+#endif
+ /* 4, 17 */
+
+#if definedEx(CONFIG_FEATURE_LS_SORTFILES)
+ls_options[currentLength] = 'S';
+ls_options[currentLength+1] = 'X';
+ls_options[currentLength+2] = 'r';
+ls_options[currentLength+3] = 'v';
+currentLength+=4;
+#endif
+  /* 4, 21 */
+
+#if definedEx(CONFIG_FEATURE_LS_FILETYPES)
+ls_options[currentLength] = 'F';
+ls_options[currentLength+1] = 'p';
+currentLength+=2;
+#endif
+    /* 2, 23 */
+
+#if definedEx(CONFIG_FEATURE_LS_FOLLOWLINKS)
+ls_options[currentLength] = 'L';
+currentLength+=1;
+#endif
+
+#if definedEx(CONFIG_FEATURE_LS_RECURSIVE)
+ls_options[currentLength] = 'R';
+currentLength+=1;
+#endif
+
+#if definedEx(CONFIG_FEATURE_HUMAN_READABLE)
+ls_options[currentLength] = 'h';
+currentLength+=1;
+#endif
+     /* 1, 24 */
+
+#if (definedEx(CONFIG_FEATURE_FIND_CONTEXT) || definedEx(CONFIG_SELINUX))
+ls_options[currentLength] = 'K';
+ls_options[currentLength+1] = 'Z';
+currentLength+=2;
+#endif
+                 /* 2, 26 */
+
+#if definedEx(CONFIG_FEATURE_AUTOWIDTH)
+ls_options[currentLength] = 'T';
+ls_options[currentLength+1] = ':';
+ls_options[currentLength+2] = 'W';
+ls_options[currentLength+3] = ':';
+currentLength+=4;
+#endif
+ls_options[currentLength] = '\0';
+}
 enum {
 	//OPT_C = (1 << 0),
 	//OPT_a = (1 << 1),
@@ -966,6 +1016,7 @@ int ls_main(int argc UNUSED_PARAM, char **argv)
 	unsigned i;
 	
 	init_opt_flags();
+	init_ls_options();
 	
 #if ENABLE_FEATURE_LS_COLOR
 	/* colored LS support by JaWi, janwillem.janssen@lxtreme.nl */

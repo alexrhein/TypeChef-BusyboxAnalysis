@@ -55,3 +55,6 @@ Problem: applet_long_options (12.11.2014)
 	applet_long_options wird definiert in libb/getopt32.c unter Bedingung ENABLE_LONG_OPTS || ENABLE_FEATURE_GETOPT_LONG
 	in Config.in gibt es die Nutzer-sichtbare Option LONG_OPTS die wahrscheinlich damit zusammenhängt.
 	-> Setze LONG_OPTS in der Konfiguration Alex_configurations/LS_allSubOptions.config auf true, damit die variable verfügbar ist (im Simulator immer noch variabel)
+
+Problem (13.11.2014) on-the-fly replacement vom ls_options array scheint nicht funktioniert zu haben (ifdeftoif_replacements_parts/ls_options).
+	Habe die Ersetzung direkt in coreutils/ls_original_modified.c gemacht
