@@ -10,3 +10,6 @@
 // this should avoid a linker bug where ifdeftoif duplicates the function init_unicode which therefore cannot be linked later
 // We disable the option as we want to focus on the busybox code rather than on libc code which is used when the option is active
 !defined(CONFIG_UNICODE_SUPPORT)
+
+// the traceroute.c file includes 2 different variants of extern functions, we narrow it down to one variant
+!defined(CONFIG_FEATURE_IPV6)
