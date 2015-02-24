@@ -1,4 +1,7 @@
 # "/" at the beginning ensures that only the root-level folder busybox-1.18.5 is ignored. Other subfolders with the name are not ignored
+ifdeftoif_progress.txt
+renamings_Functions.txt
+renamings_StructsAndVars.txt
 /busybox-1.18.5
 systems
 git

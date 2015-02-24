@@ -159,7 +159,6 @@ init/bootchartd
 init/halt
 init/init
 init/mesg
-libbb/appletlib
 libbb/ask_confirmation
 libbb/bb_askpass
 libbb/bb_basename
