@@ -49,4 +49,6 @@ fi
 
 
 # replace busybox sources with our modified versions (modified if ifdeftoif was possible otherwise)
-cp -rfv ifdeftoif_modified_files/*
+cd "ifdeftoif_modified_files/"
+cp -rfv ./* ../
+cd ..
